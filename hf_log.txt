@@ -1,0 +1,5 @@
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): huggingface.co:443
+DEBUG:urllib3.connectionpool:https://huggingface.co:443 "GET /api/models/mistralai/Mistral-7B-Instruct-v0.3?expand=inferenceProviderMapping HTTP/1.1" 200 224
+WARNING:huggingface_hub.inference._providers._common:Our latest automated health check on model 'mistralai/Mistral-7B-Instruct-v0.3' for provider 'novita' did not complete successfully.  Inference call might fail.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): router.huggingface.co:443
+DEBUG:urllib3.connectionpool:https://router.huggingface.co:443 "POST /novita/v3/openai/chat/completions HTTP/1.1" 401 41
