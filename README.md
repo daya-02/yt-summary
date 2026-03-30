@@ -6,9 +6,9 @@ An AI-powered web app that takes any YouTube video URL and instantly generates a
 
 > **Note:** The deployed version may not fetch transcripts due to YouTube's server-side restrictions on cloud IPs. See the demo video below for a full walkthrough.
 
-📹 [Watch Demo Video](#) <!-- Replace with your actual demo video link -->
+📹 [Watch Demo Video](https://youtu.be/YGlmMsvjTlw) <!-- Replace with your actual demo video link -->
 
-🌐 [Live App](https://your-app-link.streamlit.app) <!-- Replace with your Streamlit URL -->
+🌐 [Live App](https://summarytrial.streamlit.app/) <!-- Replace with your Streamlit URL -->
 
 ---
 
